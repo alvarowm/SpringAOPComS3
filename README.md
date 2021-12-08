@@ -27,6 +27,10 @@ Ex: ~/.aws/credentials
 ```
 
 ```
+Modificar o .properties com sua senha.
+```
+
+```
 Execute via classe principal ou Maven.
 ```
 
