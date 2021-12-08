@@ -2,9 +2,9 @@
 
 <p align="justify"> Usando programação orientada à aspectos é criado um bucket no AWS S3. </p>
 
-<p align="justify">A programação orienteda à aspectos ou AOP cria pontos onde chamadas de métodos que serão inseridas sem a chamada explicita, ou seja, sem o acoplamento.
+<p align="justify">A programação orienteda à aspectos ou AOP cria pontos onde chamadas de métodos serão inseridas sem a chamada explicita, ou seja, sem o acoplamento.
 
-  A AOP pode ser usada para diminuir a dependência com os cross-cutting concerns que são partes do sistemas que permeiam toda a aplicação e não se comportam de maneira adequada e uniforme quando de trata de programação orientada a objetos ou procedural.
+  A AOP pode ser usada para diminuir a dependência com os cross-cutting concerns que são partes do sistema que permeiam toda a aplicação e não se comportam de maneira adequada e uniforme quando de trata de programação orientada a objetos ou procedural.
 
 Ex: Logs.
 
