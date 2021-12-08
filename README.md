@@ -18,16 +18,16 @@ Criar uma conta IAM na AWS para fazer os acessos.
 ```
 
 ```
-Dê a permissão Programmatic access para ele.
+Dê a permissão Programmatic access para essa conta.
 ```
 
 ```
-Criar um arquivo cahamdo credentials e colocar dentro do diretório do usuário na pasta .aws.
+Crie um arquivo chamado credentials e coloque dentro do diretório do usuário na pasta .aws.
 Ex: ~/.aws/credentials
 ```
 
 ```
-Modificar o .properties com sua senha.
+Modifique o .properties com sua senha.
 ```
 
 ```
